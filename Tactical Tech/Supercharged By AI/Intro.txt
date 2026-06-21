@@ -1,0 +1,24 @@
+Website: https://tacticaltech.org
+
+
+Tactical Tech is a Berlin-based international non-profit (founded 2003) that investigates how digital technology shapes society, privacy, and individual autonomy. Instead of dense policy reports, it produces playful, design-led public interventions — exhibitions, toolkits, and guides — that make complex tech issues legible to a general audience. Its work has reached tens of millions of people and exists in 45+ languages.
+
+Tactical Tech treats information design as a civic tool. Its flagship projects — The Glass Room and the Data Detox Kit — turn invisible systems into things you can walk around, click through, and reason about.
+
+Supercharged by AI: Synthetic and Out of Control
+
+Supercharged by AI is a 2024 traveling exhibition built on a single thesis: AI doesn't invent online harms — it amplifies the ones that already exist. Scams, harassment, polarisation, and bias are all being "supercharged" by generative tools that make fabrication faster, cheaper, and harder to detect.
+
+The exhibition is organised into four chapters — online scams, harassment, political influence, and stereotyping — and uses data visualisation as its core language. The Stories of Online Harassment panel, for example, renders harassment as a network map: clustering forms like doxxing, sextortion, deepfakes, swatting, and cyberstalking, then wiring them together to show how they overlap and feed one another.
+
+Produced by Tactical Tech with the DensityDesign Lab at Politecnico di Milano and the International Federation of Library Associations (IFLA), it has traveled through 50+ libraries across at least ten European countries.
+
+
+Links
+Exhibition hub: https://www.theglassroom.org/supercharged-by-ai/
+The Glass Room: https://theglassroom.org/
+Companion guide (Data Detox Kit — Essential Guide to AI): https://datadetoxkit.org/
+Open archive (resources + source list, Zenodo): https://doi.org/10.5281/zenodo.18174876
+
+
+Credits: produced by Tactical Tech and DensityDesign Lab at Politecnico di Milano, in collaboration with IFLA, supported by the European Media & Information Fund (EMIF), managed by the Calouste Gulbenkian Foundation.
